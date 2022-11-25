@@ -1,0 +1,1 @@
+<iframe src="https://cdn.flipsnack.com/widget/v2/widget.html?hash=zt90j9co7k" width="100%" height="670" seamless="seamless" scrolling="no" frameBorder="0" allowFullScreen></iframe>
